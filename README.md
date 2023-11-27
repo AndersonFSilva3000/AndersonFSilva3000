@@ -1,9 +1,11 @@
 # <h1 align="center">Olá, eu sou o Anderson Dev 👋
 
 <div>
-  🧠 Um entusiasta de programação front-end apaixonado por criar experiências web envolventes e responsivas. Atualmente, estou focado no aprendizado e aprimoramento contínuo das          tecnologias mais recentes. 
+  <p>
+    🧠 Um entusiasta de programação front-end apaixonado por criar experiências web envolventes e responsivas. Atualmente, estou focado no aprendizado e aprimoramento contínuo das          tecnologias mais recentes.
+  </p> 
   
-  ### Aqui está um breve resumo do que você encontrará nos meus repositórios:
+  <h2 align="center">Aqui está um breve resumo do que você encontrará nos meus repositórios</h2>
 
   🚀 Projetos Pessoais: 
   > <p>Explore meus projetos front-end, onde aplico conceitos modernos de HTML, CSS e JavaScript/Typescript para criar interfaces interativas e visualmente atraentes.</p>
@@ -13,13 +15,12 @@
   Conhecimento sólido em pré-processadores CSS, como Sass e Less para criar estilos elegantes e reutilizáveis.</p>
   
   🔍 Aprendizado Contínuo:
-  > <p>Participo ativamente de desafios e projetos para aprimorar minhas habilidades, sempre em busca de novas oportunidades para expandir meu conhecimento.</p>>
+  > <p>Participo ativamente de desafios e projetos para aprimorar minhas habilidades, sempre em busca de novas oportunidades para expandir meu conhecimento.</p>
   
   📚 Estudos em Andamento:
   > <p>Atualmente, estou aprofundando meu entendimento em NextJs e começando a mergulhar no estudo de BackEnd, para explorar novas possibilidades e aprimorando meu conjunto de habilidades.</p>
 
-  #
-  <p>Fique à vontade para explorar meus repositórios e entre em contato se tiver sugestões, perguntas ou oportunidades de colaboração. Vamos construir a web juntos! 🌐✨</p>
+  <h3 align="center">Fique à vontade para explorar meus repositórios e entre em contato se tiver sugestões, perguntas ou oportunidades de colaboração. Vamos construir a web juntos! 🌐✨</h3>
 </div>
 
 #
