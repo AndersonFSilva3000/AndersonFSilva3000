@@ -14,11 +14,8 @@
   > <p>Proficiente nas bibliotecas React e Styled-components para o desenvolvimento de aplicações robustas e escaláveis.
   > Conhecimento sólido em pré-processadores CSS, como Sass e Less para criar estilos elegantes e reutilizáveis.</p>
   
-  🔍 Aprendizado Contínuo:
-  > <p>Participo ativamente de desafios e projetos para aprimorar minhas habilidades, sempre em busca de novas oportunidades para expandir meu conhecimento.</p>
-  
   📚 Estudos em Andamento:
-  > <p>Atualmente, estou aprofundando meu entendimento em NextJs e começando a mergulhar no estudo de BackEnd, para explorar novas possibilidades e aprimorando meu conjunto de habilidades.</p>
+  > <p>Atualmente, estou cursando <a href="https://www.uninove.br/cursos/graduacao-ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead">Análise e Desenvovimento de Sitemas</a>, além de tá aprofundando meu entendimento em <a href="https://www.alura.com.br/formacao-next-js" target="blank">NextJs</a> e começando a mergulhar no estudo de <a href="https://ebaconline.com.br/full-stack-python" target="blank">BackEnd</a>, para explorar novas possibilidades e aprimoramento de meus conjunto de habilidades.</p>
 
   <h3 align="center">Fique à vontade para explorar meus repositórios e entre em contato se tiver sugestões, perguntas ou oportunidades de colaboração. Vamos construir a web juntos! 🌐✨</h3>
 </div>
@@ -79,7 +76,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anderson-fernando-a231a4262/" target="_blank"> 
+  <a href="https://www.linkedin.com/in/anderson-fernando-a231a4262/" target="blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
