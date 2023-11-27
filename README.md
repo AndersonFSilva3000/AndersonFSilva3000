@@ -23,8 +23,8 @@
 </div>
 
 #
-<div>
-  <br/><br/>
+<br/><br/>
+<div align="center">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonFSilva3000&show_icons=true&theme=transparent&include_all_commit=true&count_private=true" />
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFSilva3000&layout=compact&langs_count=16&theme=transparent" />
 </div>
@@ -33,7 +33,7 @@
 ## <h2 align="center">Tecnologias que utilizo em meu dia a dia
 <br />
 
-<div style="display: inline-block">
+<div align="center" style="display: inline-block">
   <br />
   <img heigth="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img heigth="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -49,7 +49,7 @@
 ## <h2 align="center">Tecnologias complementares
 <br />
 
-<div style="dispaly: inline-block">
+<div align="center" style="dispaly: inline-block">
   <br/>
   <img heigth="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img heigth="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -63,7 +63,7 @@
 ## <h2 align="center">Tecnologias que já tive contato
 <br/>
   
-<div>
+<div align="center" style="display: inline-block">
   <img heigth="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
   <img heigth="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img heigth="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
