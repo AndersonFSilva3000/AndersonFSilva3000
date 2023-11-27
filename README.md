@@ -15,7 +15,7 @@
   > Conhecimento sólido em pré-processadores CSS, como Sass e Less para criar estilos elegantes e reutilizáveis.</p>
   
   📚 Estudos em Andamento:
-  > <p>Atualmente, estou cursando <a href="https://www.uninove.br/cursos/graduacao-ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead">Análise e Desenvovimento de Sitemas</a>, além de tá aprofundando meu entendimento em <a href="https://www.alura.com.br/formacao-next-js" target="blank">NextJs</a> e começando a mergulhar no estudo de <a href="https://ebaconline.com.br/full-stack-python" target="blank">BackEnd</a>, para explorar novas possibilidades e aprimoramento de meus conjunto de habilidades.</p>
+  > <p>Atualmente, estou cursando <a href="https://www.uninove.br/cursos/graduacao-ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead">Tecnologia em Análise e Desenvolvimento de Sistemas</a>, além de tá aprofundando meu entendimento em <a href="https://www.alura.com.br/formacao-next-js" target="blank">NextJs</a> e começando a mergulhar no estudo de <a href="https://ebaconline.com.br/full-stack-python" target="blank">BackEnd</a>, para explorar novas possibilidades e aprimoramento de meus conjunto de habilidades.</p>
 
   <h3 align="center">Fique à vontade para explorar meus repositórios e entre em contato se tiver sugestões, perguntas ou oportunidades de colaboração. Vamos construir a web juntos! 🌐✨</h3>
 </div>
