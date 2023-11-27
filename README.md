@@ -12,7 +12,7 @@
   
   🌐 Tecnologias Favoritas:
   > <p>Proficiente nas bibliotecas React e Styled-components para o desenvolvimento de aplicações robustas e escaláveis.
-  Conhecimento sólido em pré-processadores CSS, como Sass e Less para criar estilos elegantes e reutilizáveis.</p>
+  > Conhecimento sólido em pré-processadores CSS, como Sass e Less para criar estilos elegantes e reutilizáveis.</p>
   
   🔍 Aprendizado Contínuo:
   > <p>Participo ativamente de desafios e projetos para aprimorar minhas habilidades, sempre em busca de novas oportunidades para expandir meu conhecimento.</p>
